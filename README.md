@@ -1,6 +1,8 @@
 # DANGER
 This is very buggy & incorrect autostrafe, this is just experiment
 
+For more comfort, files was merged in one exe
+
 # About
 Simple program, moves your mouse to left/right
 
